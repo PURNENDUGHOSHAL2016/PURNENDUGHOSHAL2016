@@ -1,6 +1,6 @@
 ### Hi My name is Purnendu Ghoshal 👋
 # 💫 About Me:
-- 🔭 I’m currently pursuing my BTech in Computer Science and Engineering from Supreme Knowledge Foundation Group of Institutions.<br>- 🌱 I’m currently learning Web Development.<br>- 👯 I’m a pepsinated web developer.<br>- ⚡ Fun fact-I am lazy but smart
+- 🔭 I’m currently pursuing my BTech in Computer Science and Engineering from Supreme Knowledge Foundation Group of Institutions.<br>- 🌱 I’m currently learning Web Development.<br>- 👯 I’m a passionated web developer.<br>- ⚡ Fun fact-I am lazy but smart
 
 
 ## 🌐 Socials:
