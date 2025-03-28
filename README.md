@@ -54,21 +54,9 @@
 
 ---
 
-## 🔥 **Recent Projects**
-✅ **[Killer Website](https://github.com/PURNENDUGHOSHAL2016/Killer-_Website)** – A dynamic, animated, and responsive web app.  
-
----
-
 ## ✍️ **Random Dev Quote**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 **Visitors Count**
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PURNENDUGHOSHAL2016&icon=0&color=0" />
 </p>
 
 ---
