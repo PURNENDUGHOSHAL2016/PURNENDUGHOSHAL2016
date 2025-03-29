@@ -27,7 +27,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/Purnendug2">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /> -->
+        <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
