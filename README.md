@@ -1,6 +1,6 @@
 <!-- Header with Animated Logo -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=Software+Engineer+(MERN+Stack);Passionate+Web+Developer;Open+to+Exciting+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=435&lines=Software+Engineer+(MERN+Stack+Developer);Passionate+Web+Developer;Open+to+Exciting+Opportunities" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm Purnendu Ghoshal 👋</h1>
