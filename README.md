@@ -43,9 +43,9 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PURNENDUGHOSHAL2016&theme=radical&show_icons=true&hide_border=true" height="130px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PURNENDUGHOSHAL2016&theme=radical&hide_border=true" height="130px" />
-  <img src="https://roadmap.sh/card/wide/66c015c3837d383f4a9c76c6?variant=dark&roadmaps=sql" height="130px" alt="roadmap.sh"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PURNENDUGHOSHAL2016&theme=radical&show_icons=true&hide_border=true" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PURNENDUGHOSHAL2016&theme=radical&hide_border=true" height="150px" />
+  <img src="https://roadmap.sh/card/tall/66c015c3837d383f4a9c76c6?variant=dark&roadmaps=sql" height="250px" alt="roadmap.sh"/>
 </p>
 
 ---
