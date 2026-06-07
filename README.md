@@ -57,7 +57,7 @@ My goal: **MSc in Artificial Intelligence at a UK/European university**, then a 
 <td width="50%">
 
 ### 🌍 Next — UK / Europe / Canada / USA
-- 🎓 MSc Artificial Intelligence (target: 2025–26 intake)
+- 🎓 MSc Artificial Intelligence (target: 2027–28 intake)
 - 🔬 Research focus: Computer Vision + Sports AI
 - 💼 AI/ML Engineering roles at global tech companies
 - 📄 Contributing to open-source AI research
