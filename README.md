@@ -32,7 +32,7 @@
 
 > *"I began as a self-taught developer who turned curiosity into production systems. Today I build full-stack platforms serving government education across Maharashtra — and tomorrow, I'm building AI that understands cricket, athletes, and the world through video."*
 
-I'm a **Software Engineer** at [Four Pillars InfoTech India Pvt. Ltd.](https://www.4pillarsinfotechindia.com/4pillars/), where I design and maintain full-stack government education platforms used by thousands of students. I've modernised legacy PHP systems, cut page load times by **40%**, and delivered secure role-based platforms for **MSBTE** and **EMS** — real infrastructure, real impact.
+I'm a **Software Engineer** at [Four Pillars InfoTech India Pvt. Ltd.](https://www.4pillarsinfotechindia.com/4pillars/), where I design and maintain full-stack government education platforms used by thousands of students. I've modernised legacy PHP systems, cut page load times by **40%**, and delivered secure role-based platforms for **Maharashtra State Board of Technical Education (MSBTE)** — real infrastructure, real impact.
 
 But I'm not stopping at web development. My next chapter is **Artificial Intelligence** — specifically **Computer Vision** and **ML for sports analytics**. I'm actively building the foundation: Python, deep learning theory, and a Cricket Analytics AI Platform that will be my bridge into research-grade AI engineering.
 
